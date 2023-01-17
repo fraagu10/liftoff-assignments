@@ -7,13 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
- The main idea of our application is to be able to come up with recipes to cook to suit the needs of an individual who is either short on time, cooking ingredients, or just in general cooking knowledge. Users will find many things useful in our app as they will be able to query recipes based on ingredients currently present in their pantry/fridge. The app will let you know immediately what you can make with what you have available and also recommend more recipes based on how close you are to completing a set list of ingredients for another recipe. 
- The idea for this application came from a need of new ideas on foods to cook. In other occassions there has been times where I would like to finish everything in my fridge before going grocery shopping again, something like this would come in handy.
+ The main idea of our application is to be able to come up with recipes to cook to suit the needs of an individual who is either short on time, 
+ cooking ingredients, or just in general cooking knowledge. 
+ Users will find many things useful in our app as they will be able to query recipes based on ingredients currently present in their pantry/fridge. 
+ The app will let you know immediately what you can make with what you have available and also recommend more recipes based on how close you are to completing a set list of ingredients for another recipe. 
+ The idea for this application came from a need of new ideas on foods to cook. 
+ In other occassions there has been times where I would like to finish everything in my fridge before going grocery shopping again, something like this would come in handy.
 
 ### Features
 Search - Users will be able to search for recipes based on a few questions and inputs.
 
-Favorites Fearute - Users will be able to save recent searches or new ones into custom made recipe lists.
+Favorites Feature - Users will be able to save recent searches or new ones into custom made recipe lists and make notes on them.
 
 Dietary Information/Chart - User will be able to see nutritional facts about the meal they looked up and information of food they have consumed throughout that day.
 
