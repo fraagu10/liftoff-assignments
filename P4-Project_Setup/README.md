@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-https://github.com/Jan-23-Liftoff-KC/team-piero-group-repo
+[Group Project Repository](https://github.com/Jan-23-Liftoff-KC/team-piero-group-repo)
